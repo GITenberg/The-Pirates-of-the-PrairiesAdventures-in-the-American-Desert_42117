@@ -26,6 +26,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
     - http://en.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42117#The-Pirates-of-the-PrairiesAdventures-in-the-American-Desert
 gutenberg_issued: '2013-02-17'
 gutenberg_type: Text
 identifiers:
